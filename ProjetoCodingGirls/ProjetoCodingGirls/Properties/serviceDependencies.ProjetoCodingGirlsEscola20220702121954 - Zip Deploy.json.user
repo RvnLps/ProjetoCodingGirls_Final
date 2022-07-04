@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2022-07-04T14:29:03.4562407Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-07-02T15:49:46.0650878Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "55c7db98-06dd-46be-917c-131a8981d727"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ProjetoCodingGirls"
+    }
+  }
+}
